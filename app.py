@@ -1,4 +1,5 @@
 #write a code to calculate the sum of n prime numbers
+
 prime = int(input("Enter any number:"))
 sum = 2
 
@@ -11,3 +12,6 @@ for num in range(prime+1):
                 sum += num
 
 print("The prime sum is" , str(sum))
+
+
+ID: 10951879
